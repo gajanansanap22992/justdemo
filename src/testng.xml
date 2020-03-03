@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite" parallel="none" verbose="1">
+<test name="project test">
+<classes>
+<class  name="com.testng.DependancyOfTestCase"/>
+<class name="com.testng.GoogleTestNG"/>
+<class name="com.testng.MyFirstTestNg"/>
+</classes>
+</test>
+
+</suite>
